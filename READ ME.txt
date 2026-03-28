@@ -1,6 +1,6 @@
-terdapat file database yg saya buat, silahkan lakukan import ke database kalian
+terdapat file database yang saya buat dan modifikasi di bagian Username dan Password, silahkan lakukan import ke database kalian masing-masing.
 
-ingat untuk menginstal WEB SERVER
+ingat untuk menginstal WEB SERVER kemudian memasukkan file yang tersedia ke
 1. XAMPP atau
 2. LARAGON
 
